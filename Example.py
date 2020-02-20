@@ -1,1 +1,4 @@
+"""Foobar.py: Description of what foobar does."""
 
+__author__      = "Barack Obama"
+__copyright__   = "Copyright 2009, Planet Earth"
